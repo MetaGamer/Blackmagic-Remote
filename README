@@ -1,0 +1,9 @@
+This is an external controller for a Blackmagic Design Micro Cinema Camera (BMCC).
+
+It uses the S.Bus port to control the functions of the camera.
+Ultimately it will be a remote with the following functions:
+- wireless control of multiple cameras
+- SMPTE timecode for syncronization through the audio port on the BMCC
+- frame-accurate synchronization using tri-level sync through the BMMCC Sync port
+
+
